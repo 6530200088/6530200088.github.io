@@ -1,4 +1,4 @@
-# 6530200088.github.io
+
 - Tranposition
 - CISSP Glossary
  - Chatgpt
