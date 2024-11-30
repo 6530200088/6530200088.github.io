@@ -2,6 +2,6 @@
 - Chonlasit
   - Mark
  
-![Profile](profile.jpg)
+![Profile](profile.jpeg)
 
 AUTHENTICATION(authentication)
