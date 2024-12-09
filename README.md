@@ -2,6 +2,6 @@
 - Chonlasit
   - Mark
  
-![Profile](Profile.jpeg)
+![Profile](photo/Profile.jpeg)
 
 [Tranposition](tranposition.md)
