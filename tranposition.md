@@ -14,7 +14,7 @@
 
 ![IMG_0022.webp](photo/IMG_0334.jpg)
 
-[รูปที่ 2)([https://www.researchgate.net/figure/Transposition-methods-across-transposition-b212-transposition_fig2_374983143?fbclid=IwY2xjawHHkwNleHRuA2FlbQIxMQABHZXpwtz2kj3ZAUfDtVloe8fLzS6kUPB6l6Q_NTCdfKPXPYfIJYcqo5P1fA_aem_Vet7VXY-rmMQo9UGZYv8Ow])
+[รูปที่ 2]([https://www.researchgate.net/figure/Transposition-methods-across-transposition-b212-transposition_fig2_374983143?fbclid=IwY2xjawHHkwNleHRuA2FlbQIxMQABHZXpwtz2kj3ZAUfDtVloe8fLzS6kUPB6l6Q_NTCdfKPXPYfIJYcqo5P1fA_aem_Vet7VXY-rmMQo9UGZYv8Ow])
 
 -**🤖Gimini** : กระบวนการจัดเรียงลำดับตัวอักษรหรือบิตของข้อความต้นฉบับใหม่ เพื่อซ่อนข้อความโดยใช้ตัวอักษรหรือบิตเดิม
 
