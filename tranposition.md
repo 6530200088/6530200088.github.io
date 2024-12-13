@@ -2,7 +2,7 @@
 
 -**Tranposition** : The process of reordering the plaintext to hide the message by using the -same letters or bits.
 
-![IMG_0021.png](photo/IMG_0335.jpeg)
+[photo/IMG_0335.jpeg](photo/IMG_0335.jpeg)
 
 [https://www.differencebetween.com/what-is-the-difference-between-replicative-transposition-and-cut-and-paste-transposition/](https://www.differencebetween.com/what-is-the-difference-between-replicative-transposition-and-cut-and-paste-transposition/)
 
