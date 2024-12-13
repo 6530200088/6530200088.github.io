@@ -13,7 +13,8 @@
 -a permutation which exchanges two elements and keeps all others fixed
 
 ![photo/IMG_0334.jpg](photo/IMG_0334.jpg)
-[photo/IMG_0334.jpg   ](photo/IMG_0334.jpg)
+[photo/IMG_0334.jpg
+](photo/IMG_0334.jpg)
 [https://www.researchgate.net/figure/Transposition-methods-across-transposition-b212-transposition_fig2_374983143](https://www.researchgate.net/figure/Transposition-methods-across-transposition-b212-transposition_fig2_374983143)
 
 -**🤖Gimini** : กระบวนการจัดเรียงลำดับตัวอักษรหรือบิตของข้อความต้นฉบับใหม่ เพื่อซ่อนข้อความโดยใช้ตัวอักษรหรือบิตเดิม
