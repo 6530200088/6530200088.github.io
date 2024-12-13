@@ -3,7 +3,7 @@
 -**Tranposition** : The process of reordering the plaintext to hide the message by using the -same letters or bits.
 
 ![photo/IMG_0335.jpeg](photo/IMG_0335.jpeg)
-[photo/IMG_0335.jpeg](photo/IMG_0335.jpeg)
+image source : 
 [https://www.differencebetween.com/what-is-the-difference-between-replicative-transposition-and-cut-and-paste-transposition/](https://www.differencebetween.com/what-is-the-difference-between-replicative-transposition-and-cut-and-paste-transposition/)
 
 -**🤖Gemini** : การย้ายที่เปลี่ยนตำแหน่ง หรือการเคลื่อนย้ายสิ่งของข้อมูลหรือแม้แต่แนวคิดจากที่หนึ่งไปยังอีกที่หนึ่ง
@@ -13,7 +13,7 @@
 -a permutation which exchanges two elements and keeps all others fixed
 
 ![photo/IMG_0334.jpg](photo/IMG_0334.jpg)
-[photo/IMG_0334.jpg](photo/IMG_0334.jpg)
+image source : 
 [https://www.researchgate.net/figure/Transposition-methods-across-transposition-b212-transposition_fig2_374983143](https://www.researchgate.net/figure/Transposition-methods-across-transposition-b212-transposition_fig2_374983143)
 
 -**🤖Gimini** : กระบวนการจัดเรียงลำดับตัวอักษรหรือบิตของข้อความต้นฉบับใหม่ เพื่อซ่อนข้อความโดยใช้ตัวอักษรหรือบิตเดิม
