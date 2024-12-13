@@ -2,8 +2,8 @@
 
 -**Tranposition** : The process of reordering the plaintext to hide the message by using the -same letters or bits.
 
+![photo/IMG_0335.jpeg](photo/IMG_0335.jpeg)
 [photo/IMG_0335.jpeg](photo/IMG_0335.jpeg)
-
 [https://www.differencebetween.com/what-is-the-difference-between-replicative-transposition-and-cut-and-paste-transposition/](https://www.differencebetween.com/what-is-the-difference-between-replicative-transposition-and-cut-and-paste-transposition/)
 
 -**🤖Gemini** : การย้ายที่เปลี่ยนตำแหน่ง หรือการเคลื่อนย้ายสิ่งของข้อมูลหรือแม้แต่แนวคิดจากที่หนึ่งไปยังอีกที่หนึ่ง
