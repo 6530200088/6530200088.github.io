@@ -1,6 +1,6 @@
 -**👉👉Keyword:Tranposition👈👈**
 
--**Tranposition** : The process of reordering the plaintext to hide the message by using the -same letters or bits.
+-**Tranposition** : The process of reordering the plaintext to hide the message by using the letters or bits.
 
 ![photo/IMG_0335.jpeg](photo/IMG_0335.jpeg)
 image source : 
