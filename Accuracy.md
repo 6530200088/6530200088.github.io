@@ -1,8 +1,8 @@
-###**Validity**
+### **Validity**
 
 ---
 
-###**Definition:**  
+### **Definition:**  
 
 > Validity ensures that data adheres to rules or standards, confirming its appropriateness for the intended purpose.  
 > The rules can be about structure, such as proper coding for diagnoses and treatments for medicine.
