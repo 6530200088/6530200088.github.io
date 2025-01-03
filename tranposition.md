@@ -1,6 +1,7 @@
 -**👉👉Keyword:Tranposition👈👈**
 
--**Tranposition** : The process of reordering the plaintext to hide the message by using the letters or bits.
+-**Tranposition** : Transposition is a cryptographic process used to conceal the content of a plaintext message by systematically reordering its elements such as 
+letters, digits, or bitsaccording to a predefined scheme or key.
 
 ![photo/IMG_0335.jpeg](photo/IMG_0335.jpeg)
 image source : 
