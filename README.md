@@ -16,4 +16,4 @@
 [pao-election](pao-election.md)
 
 
-[security-control](photo/keycard.md)
+[security-control](security-control.md)
