@@ -21,4 +21,4 @@ upper or lower case or numbers or special characters.
 ---
 
 ### ♾️ Link 
-🔹 [Sittikorn Pratomwan 6530200525 ](https://6530200525.github.io/security-sequirements)
+[Sittikorn Pratomwan 6530200525 ](https://6530200525.github.io/security-sequirements)
