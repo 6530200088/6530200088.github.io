@@ -17,3 +17,8 @@ upper or lower case or numbers or special characters.
 
 ### 📌 My self
 🔹 ตรวจสอบว่าระบบ **ไม่ได้บังคับ** ให้ผู้ใช้ต้องตั้งรหัสผ่านตามกฎที่จำกัดรูปแบบของตัวอักษร  รหัสผ่านควรยืดหยุ่น ให้ผู้ใช้สามารถตั้งค่าได้เองโดยไม่มีข้อจำกัด  
+
+---
+
+### ♾️ Link 
+🔹 [Sittikorn Pratomwan 6530200525 ](https://6530200525.github.io/security-sequirements)
