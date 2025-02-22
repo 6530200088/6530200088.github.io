@@ -13,7 +13,7 @@
 [Validity](validity.md)
 
 
-[pao-election](pao-election.md)
+[pao-election](pao-elections.md)
 
 
 [security-control](security-control.md)
